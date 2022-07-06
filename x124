@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/xbkYDeg.png" group-title="Shop",1001 Noites (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Music",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+http://vmp343.ddnsking.com:80/thomas2/thomas2/434360?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&Eⓧ SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51583?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
+http://168.205.87.198:8555/live/1111/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
+http://168.205.87.198:8555/live/1221/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
+http://168.205.87.198:8555/live/antony/1234/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
+http://168.205.87.198:8555/live/michele/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
+http://168.205.87.198:8555/live/leila/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
+http://168.205.87.198:8555/live/JOSEE/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
+http://168.205.87.198:8555/live/1111/123456/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
+http://168.205.87.198:8555/live/leila/123456/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
+http://168.205.87.198:8555/live/JOSEE/123456/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
+http://168.205.87.198:8555/live/michele/123456/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
+http://168.205.87.198:8555/live/antony/1234/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
+http://168.205.87.198:8555/live/1221/123456/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGROMAIS
+http://168.205.87.198:8555/live/michele/123456/175.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGROMAIS
+http://168.205.87.198:8555/live/1221/123456/175.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGROMAIS
+http://168.205.87.198:8555/live/antony/1234/175.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGROMAIS
+http://168.205.87.198:8555/live/JOSEE/123456/175.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/antony/1234/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/leila/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMCⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51750?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMCⓧ SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51562?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMERICA LATINO
+http://168.205.87.198:8555/live/JOSEE/123456/16.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMERICA LATINO
+http://168.205.87.198:8555/live/antony/1234/16.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMERICA LATINO
+http://168.205.87.198:8555/live/michele/123456/16.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMERICA LATINO
+http://168.205.87.198:8555/live/leila/123456/16.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMERICA LATINO
+http://168.205.87.198:8555/live/1111/123456/16.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMERICA LATINO
+http://168.205.87.198:8555/live/1221/123456/16.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://168.205.87.198:8555/live/antony/1234/18.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://168.205.87.198:8555/live/michele/123456/18.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://168.205.87.198:8555/live/leila/123456/18.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE 1
+http://tv.fullytv.com:8080/lisa1/1lisa/8328?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE 1 HD
+http://vmp343.ddnsking.com:80/thomas2/thomas2/434256?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE1
+http://168.205.87.198:8555/live/JOSEE/123456/170.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE1
+http://168.205.87.198:8555/live/antony/1234/170.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE1
+http://168.205.87.198:8555/live/1221/123456/170.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE1
+http://168.205.87.198:8555/live/michele/123456/170.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXNⓧ FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXNⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51749?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXNⓧ HEVC
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/7508?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXNⓧ SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51584?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="Undefined",Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Agro Canalⓧ SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51629?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="Undefined",AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",All Sportsⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/7513?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet HD BR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13643?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planetⓧ FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51830?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planetⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51767?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planetⓧ HEVC
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51442?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planetⓧ SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51570?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="Undefined",Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Aparecida TVⓧ
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51682?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Arte1 HD BR
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6147?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BABY TV HD
+http://vmp343.ddnsking.com:80/thomas2/thomas2/434258?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
+http://168.205.87.198:8555/live/antony/1234/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
+http://168.205.87.198:8555/live/michele/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
+http://168.205.87.198:8555/live/1111/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
+http://168.205.87.198:8555/live/JOSEE/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
+http://168.205.87.198:8555/live/1221/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
+http://168.205.87.198:8555/live/leila/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND CAMPINAS HD
+http://vmp343.ddnsking.com:80/thomas2/thomas2/434259?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND HD
+http://vmp343.ddnsking.com:80/thomas2/thomas2/434363?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEW
+http://tv.fullytv.com:8080/lisa1/1lisa/29329?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS
+http://168.205.87.198:8555/live/1221/123456/174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS
+http://168.205.87.198:8555/live/michele/123456/174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS
+http://168.205.87.198:8555/live/antony/1234/174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS
+http://168.205.87.198:8555/live/JOSEE/123456/174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS HD
+http://vmp343.ddnsking.com:80/thomas2/thomas2/434361?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NOTICIAS
+http://tv.fullytv.com:8080/lisa1/1lisa/29331?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORT
+http://tv.fullytv.com:8080/lisa1/1lisa/29330?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
+http://168.205.87.198:8555/live/antony/1234/176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
+http://168.205.87.198:8555/live/JOSEE/123456/176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
+http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
+http://168.205.87.198:8555/live/1221/123456/176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
+http://tv.fullytv.com:8080/lisa1/1lisa/17186?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
+http://vmp343.ddnsking.com:80/thomas2/thomas2/434260?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 1ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 2ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93060?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 3ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93061?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 5ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93063?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 6ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93067?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BBB Cam 7ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93068?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS HD
+http://vmp343.ddnsking.com:80/thomas2/thomas2/434261?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BISⓧ FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51523?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BISⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51748?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BISⓧ SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/51565?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOA VONTADE TV
+http://168.205.87.198:8555/live/1111/123456/21.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOA VONTADE TV
+http://168.205.87.198:8555/live/antony/1234/21.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOA VONTADE TV
+http://168.205.87.198:8555/live/michele/123456/21.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOA VONTADE TV
+http://168.205.87.198:8555/live/1221/123456/21.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOA VONTADE TV
+http://168.205.87.198:8555/live/leila/123456/21.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOA VONTADE TV
+http://168.205.87.198:8555/live/JOSEE/123456/21.ts?checkedby:iptvcat.com
